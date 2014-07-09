@@ -5,6 +5,7 @@ html, body {
 	height: 100%;
 	font-size: 14pt;
 	font-family: Arial, Helvetica;
+	color: #222222;
 }
 
 body {
@@ -33,13 +34,41 @@ body {
 }
 
 #menu {
-	margin: 1% 0 2% 0;
+	margin: 0 0 2% 0;
 	padding: .75em 7% .75em 7%;
 	background: whitesmoke;
 }
 
+#menu-inner {
+	/* margin-left: auto;
+	margin-right: auto;
+	width: 100%; */
+	text-align: center;
+}
+
 .menuitem {
-	margin-right: 8%;
+	margin-right: 2.5%;
+	margin-left: 2.5%;
+	padding: .70em 3% .75em 3%;
+	text-decoration: none;
+	color: #222222;
+}
+
+a.menuitem:link{
+
+}
+
+a.menuitem:visited{
+
+}
+
+.menuitem:hover {
+	background: #005DAA;
+	color: whitesmoke;
+}
+
+a.menuitem:active{
+
 }
 
 #largebox {
@@ -69,4 +98,11 @@ body {
 	width: 20%;
 	background-color: whitesmoke;
 	display: inline-block;
+}
+
+.smallbox-inner {
+	margin: 1em 0 1em 0;
+	font-family: Helvetica;
+	font-size: 125%;
+	text-align: center;
 }
