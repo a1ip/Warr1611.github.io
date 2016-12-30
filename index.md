@@ -30,8 +30,8 @@ We also have Wednesday night services starting at 7:00 PM.
 ***
 
 
-3500 Arbor Drive  
-Lexington, Kentucky 40517
+3288 Beaver Creek Drive  
+Lexington, Kentucky 40515
 
 
 # Our Pastor - Who
