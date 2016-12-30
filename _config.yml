@@ -74,3 +74,8 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+
+title: Blessed Hope Baptist Church
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
