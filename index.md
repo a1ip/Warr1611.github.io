@@ -8,19 +8,21 @@ We're glad that you're interested in visiting our church! We know you have quest
 
 Visiting a church for the first time can be awkward. What door do I go into? What time does it start? What is there for my kids? These and other questions always surface. When you visit Blessed Hope Baptist Church, you will find a friendly welcome from down-to-earth Christians who love the Lord and their church family. There will always be someone to assist you with any questions or concerns. Here are a few answers to your questions and what you might expect on your first visit.
 
-### What is the Sunday Morning schedule?
-#### 10:00 AM
-This is Sunday school hour. It is most often a verse by verse study through a book of the Bible or a topical study. This lasts until about 10:50 AM.
+### What is the Sunday schedule?
+#### 9:30 AM
+The worship service starts with congregational singing and prayer. These are followed by the preaching which lasts around 30-45 minutes. This service ends at 10:30 AM.
 
-#### 11:00 AM
-The worship service starts with congregational singing and prayer. These are followed by the preaching which lasts around 30-45 minutes. Most services end around 12:00 - 12:30 PM.
+#### 5:00 PM
+This is Sunday school hour. It is most often a verse by verse study through a book of the Bible or a topical study. This lasts until about 5:50 PM. 
+
+#### 6:00 PM
+Our evening service starts promptly at 6:00 PM and lasts for one hour.
 
 ### Is there a nursery?
-We do not have a nursery, but we do have facilities that mothers can use should they need to.
+We do have a nursery during services.
 
 ### Do you have other services?
-We have evening and morning services on Sundays. Our evening services on Sundays start at 5:00 PM.
-
+We also have Wednesday night services starting at 7:00 PM.
 
 
 # Directions - Where
