@@ -9,6 +9,7 @@ We're glad that you're interested in visiting our church! We know you have quest
 Visiting a church for the first time can be awkward. What door do I go into? What time does it start? What is there for my kids? These and other questions always surface. When you visit Blessed Hope Baptist Church, you will find a friendly welcome from down-to-earth Christians who love the Lord and their church family. There will always be someone to assist you with any questions or concerns. Here are a few answers to your questions and what you might expect on your first visit.
 
 ### What is the Sunday schedule?
+
 #### 9:30 AM
 The worship service starts with congregational singing and prayer. These are followed by the preaching which lasts around 30-45 minutes. This service ends at 10:30 AM.
 
