@@ -82,7 +82,7 @@ But as many as received him, to them gave he power to become the sons of God, ev
 Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new. (2 Corinthians 5:17)
 
 
-# What We Believe - What
+# We Believe - What
 
 ***
 
@@ -108,7 +108,7 @@ We believe that Jesus Christ is God (Jn. 1:1-3), He was born of a virgin (Is. 7:
 
 
 ### The Local Church
-We believe the local church to be a body of believers who come together in obedience to Christ to carry out the dictates of the New Testament (Mt. 28:19, 20). The local church should be self-governing and independent from any interference of hierarchy, individuals, and organizations. Believers should assemble together locally in order to be edified in the word of God and to serve the Lord (Acts 11:23-26). The proper order for the local church is laid out especially in the Pastoral Epistles (1Tim. 3:15). Hope Baptist Church is an independent Baptist Church.
+We believe the local church to be a body of believers who come together in obedience to Christ to carry out the dictates of the New Testament (Mt. 28:19, 20). The local church should be self-governing and independent from any interference of hierarchy, individuals, and organizations. Believers should assemble together locally in order to be edified in the word of God and to serve the Lord (Acts 11:23-26). The proper order for the local church is laid out especially in the Pastoral Epistles (1Tim. 3:15). Blessed Hope Baptist Church is an independent Baptist Church.
  
 
 
@@ -118,7 +118,7 @@ We believe that every believer in the Church Age is baptized by the Holy Spirit 
 
 
 ### Baptism
-We believe in following the Biblical pattern of baptism. Water baptism is only for those who have first believed in Jesus (Acts 8:37). It is full immersion into water symbolizing and identifying with the death, burial, and resurrection of Christ (Mt. 3:16). Baptism will also identify you with the local church. It is obedience to the Lord’s command (Mt. 28:19). Water baptism can in no wise impute grace or forgiveness of sins (1Cor. 1:17 & Rom. 4:24).
+We believe in following the Biblical pattern of baptism. Water baptism is only for those who have first believed in Jesus (Acts 8:37). It is full immersion into water symbolizing and identifying with the death, burial, and resurrection of Christ (Mt. 3:16). Baptism will also identify you with the local church. It is obedience to the Lord’s command (Mt. 28:19). Water baptism can in no way impute grace or forgiveness of sins (1Cor. 1:17 & Rom. 4:24).
  
 
 
@@ -128,7 +128,7 @@ We believe the Lord’s Supper (“Communion”) to be a remembrance of what Chr
 
 
 ### Missions
-We believe that the command to give the gospel to the world is clear and unmistakable (Mt. 28:19,20). It is the church’s clear responsibility to carry out this commission by sending forth those whom God has called. The equipping and supply of these missionaries is the sole duty of the church. Missions is the heartbeat of Hope Baptist Church.
+We believe that the command to give the gospel to the world is clear and unmistakable (Mt. 28:19,20). It is the church’s clear responsibility to carry out this commission by sending forth those whom God has called. The equipping and supply of these missionaries is the sole duty of the church. Missions is the heartbeat of Blessed Hope Baptist Church.
  
 
 
